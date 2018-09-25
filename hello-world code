@@ -1,0 +1,4 @@
+hello world looping code
+print hello world var$1
+goto 1
+exit
